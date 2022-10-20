@@ -1,4 +1,33 @@
-# Getting Started with Create React App and Redux
+
+
+<br />
+<div align="center">
+  <a href="">
+    <img src="https://github.com/CampuJavi/marvel-comics/blob/main/src/assets/comic.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Marvel Comics</h3>
+
+  <p align="center">
+    aplicación que permite visualizar información sobre comics de marvel
+    
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+## About the Project
+
+- WebSite is based on API MARVEL
+  https://developer.marvel.com 
+  
+- It allows the register of new users(Name, Id and email)
+- For sign up users, It has the next features:
+    o See all the comics name and images
+    o See detailed info about every comic
+    o Create a list of favorite comics
+
+
+## Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
@@ -14,30 +43,37 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+## User Manual
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Login
 
-### `npm run build`
+Login with user and password
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img src="https://github.com/CampuJavi/marvel-comics/blob/main/src/assets/Login.png" alt="login" width="800">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Sign up
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+It allows the register of new users(Name, Id and email)
+<img src="https://github.com/CampuJavi/marvel-comics/blob/main/src/assets/singup.png" alt="login" width="800">
 
-### `npm run eject`
+### Comics list
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Here see all the comics name and images, see details, add to favorits and log out
+<img src="https://github.com/CampuJavi/marvel-comics/blob/main/src/assets/comicList.png" alt="login" width="800">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Comics Detail
+<br/>
+Here see the comic details
+<img src="https://github.com/CampuJavi/marvel-comics/blob/main/src/assets/detail.png" alt="login" width="800">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Favorits Comic
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Here see the list of favorits comic
+<img src="https://github.com/CampuJavi/marvel-comics/blob/main/src/assets/favList.png" alt="login" width="800">
+
+
+
+
 
 ## Learn More
 
