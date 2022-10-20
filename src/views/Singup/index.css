@@ -1,0 +1,13 @@
+.login-ctn{
+    width: 350px;
+    margin: 20px auto;
+    
+}
+
+.login-ctn img{
+    width: 360px;
+    border-radius: 20%;
+}
+.form-ctn{
+    margin-bottom: 20px;
+}

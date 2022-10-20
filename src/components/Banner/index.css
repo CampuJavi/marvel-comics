@@ -1,0 +1,15 @@
+.banner-ctn{
+    height: 100px;
+    background-color: #EE171F;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    background-size: contain;
+    background-repeat: repeat;
+    padding: .1px;
+}
+.banner-ctn img{
+    height: 100px;
+    object-fit: contain;
+    border-image-repeat: repeat;
+}
+
+;

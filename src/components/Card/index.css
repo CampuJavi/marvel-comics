@@ -1,0 +1,20 @@
+.card-ctn{
+    width: 200px;
+    margin: 20px;
+    border: 1px solid #631010;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+
+.name-ctn{
+    height: 66px;
+}
+
+.card-ctn img{
+    width: 190px;
+    height: 140px;
+    object-fit: cover;
+    
+}
+
